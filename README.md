@@ -1,3 +1,3 @@
 # projeto-andoid usando HTML5 e CSS3 para o curso em video
 
-<a href= "https://deivison1.github.io/projeto-andoid/"> Link do site </a>
+<a href= "https://deivison1.github.io/projeto-andoid/" target= "*blank_"> Link do site </a>
